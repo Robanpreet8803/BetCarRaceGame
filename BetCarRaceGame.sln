@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetCarRaceGame", "BetCarRaceGame\BetCarRaceGame.csproj", "{14FFE2A1-C420-4FD1-B1C6-98C9820EF633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetGameTesting", "GameTesting\BetGameTesting.csproj", "{5371BFEB-3AAC-40EC-9127-E0F7774351DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14FFE2A1-C420-4FD1-B1C6-98C9820EF633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FFE2A1-C420-4FD1-B1C6-98C9820EF633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FFE2A1-C420-4FD1-B1C6-98C9820EF633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FFE2A1-C420-4FD1-B1C6-98C9820EF633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5371BFEB-3AAC-40EC-9127-E0F7774351DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5371BFEB-3AAC-40EC-9127-E0F7774351DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5371BFEB-3AAC-40EC-9127-E0F7774351DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5371BFEB-3AAC-40EC-9127-E0F7774351DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A702A8A0-97E1-4A1F-8070-B15A30B6CE02}
+	EndGlobalSection
+EndGlobal
